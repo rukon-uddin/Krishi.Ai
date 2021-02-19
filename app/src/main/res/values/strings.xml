@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KrishiAi</string>
+    <string name="btncapture">Take Photo</string>
+    <string name="btndisplay">Solution</string>
+    <string name="tvprobability">Probability</string>
+    <string name="btnDetect">Detect Desease</string>
+    <string name="btnSelectfromgallery">Gellary</string>
+    <string name="tvPrediction">Prediction</string>
+    <string name="tvInstruction">You can use the below pesticide</string>
+    <string name="btndetect2">GO!</string>
+</resources>
